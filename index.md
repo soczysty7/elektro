@@ -1,37 +1,195 @@
-## Welcome to GitHub Pages
+# witaj w opisie playlisty o ɹ o ʇ ʞ ǝ ʅ ǝ na spotify
 
-You can use the [editor on GitHub](https://github.com/soczysty7/elektro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![dean blunt gra sb](playlist_pic.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [playlista: o ɹ o ʇ ʞ ǝ ʅ ǝ](https://open.spotify.com/playlist/5osJ3Qu77udOEuVLcyG2zV?si=14caa415cdd14622)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## **gatunki albumów/utworów na playliscie (artist - album - [pod]gatunek):**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Special Request - VORTEX - hardcore breaks; podgatunek breakbeat hardcore, troche drum and bass, UK Bass
 
-**Bold** and _Italic_ and `Code` text
+DJ Seinfeld - Time Spent Away From U - outsider house, acid House; podgatunek house
 
-[Link](url) and ![Image](src)
-```
+A2A i inni - A2A - UK Bass, Wonky Techno
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Skee Mask - Compro - breakbeat, ambient techno
 
-### Jekyll Themes
+Fuck Buttons - Slow Focus - progressive electronic, neo-psychodelia, drone
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soczysty7/elektro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Machinedrum - Room(s) - footwork, UK Bass
 
-### Support or Contact
+Helena Hauff - Qualm - industrial techno, electro, acid techno
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ross from Friends - You'll Understand - outsider house
+
+Jacek Sienkiewicz - Drifting - minimal techno
+
+The Knife - Shaking The Habitual - electronic, post-industrial, experimental
+
+Bodan Raczynski - Rave 'Till You Cry - drill and bass, idm(intelligent dance music hehe)
+
+VTSS/VA - The World of Monnom Black - industrial techno
+
+Autechre - Exai - IDM, experimental, glitch, abstract electronic
+
+Boards of Canada - Geogaddi - IDM, downtempo, ambient techno
+
+De Grandi - 11-100-JAILLE - breakbeat, berite club
+
+Autechre - Move of Ten - IDM, experimental, glitch, abstract electronic
+
+DJ Nigga Fox - Cranio - batida, afro-house, gqom, footwork
+
+Aisha Devi - Of Matter and Spirit - deconstructed club, UK Bass, trance, ritual ambient
+
+Lorenzo Senni/DJ Stingray - XAllegroX - Trance, progressive electronic
+
+Patricia - Several Shades of the Same Colour - Outsider House, Ambient Techno, Dub techno
+
+Muslimgauze - Mullah Said - tribal ambient, ambient dub
+
+Mazutti - Kształt Jazzu Który Ma Dojść - acid techno, industrial techno, acid core
+
+Oneothrix Point Never - R Plus Seven - progressive electronic, vapor, glitch, sound collage
+
+Rezzet - Rezzet LP - outsider house, jungle
+
+Huerco S. - Colonial Patterns - outsider house, ambient house, dub techno
+
+SHX... - Linear S Decoded - dub techno, industrial techno
+
+Abdulla Rashim - A Shell of Speed - ambient techno
+
+Stereolab - Dots And Loops - indietronica, art pop
+
+Squarepusher - Hard Normal Daddy - drill and bass, atmospheric drum and bass
+
+Amon Tobin - Supermodified - nu jazz, electronic, idm
+
+SSTORM - Drenched 9-12 - acid techno
+
+33EMYBW.. - Anthropods - Deconstructed Club, IDM
+
+Flying Lotus - Cosmogramma - idm, glitch hop, wonky
+
+Pekka Airaksinen - Other Power - progressive electronic
+
+Legowelt - Crystal Cult 2080 - acid techno
+
+Lee Gamble - Dutch Tvashar Plumes - minimal techno
+
+DJ Python - Dulce Compania - ambient house, deep house, reggaeton
+
+julek ploski - śpie - Deconstructed Club, glitch
+
+Omar S - Thank You For Letting Me Be Myself - deep house, detroit techno, acid house
+
+ZULI - Terminal - deconstructed club, glitch hop
+
+Zomby - Where Were U In '92 - hardcore breaks, jungle
+
+Lanark Artefax - Whities 011 - idm, uk bass
+
+Machine Girl - Wlfgrl - hardcore breaks, footwork
+
+Death Grips - Government Plates - abstract hip hop, electro industrial, wonky
+
+Hype Williams - Rainbow Edition - hypnagogic pop, electronic
+
+Animal Collective - Merriweather Post Pavillon - neo-psychodelia, electronic
+
+Health - Get Color - electro industrial
+
+
+## **sposoby odkrywania muzyki:**
+
+
+- poznawanie innych nagran i projektow wykonawcow ktorych lubimy
+- po labelach artystow ktorzy nam sie podobaja
+- po gatunkach (im wezszy gatunek tym lepiej), to nie prawda ze nie mozna szufladkowac
+- ze stron festiwali, klubow czy wydarzen i koncertow
+- z baz danych i ocen ich uzytkownikow (rym, discogs)
+- grupki, fora - peje na fb, slizgawka.eu, 4chan /mu: https://boards.4channel.org/mu/thread/48186754 (ostroznie xd)
+- spotify - tak sb dziala ale bdb polecanki na bazie playlist albo sledzenie prywatnych kont artystow i blogerow
+- sledzenie blogerow muzycznych/ludzi mowiacych o muzyce itp: konkret blog, cukier official yt, boiler room, 
+  rumunski spektralizm, rafal zapala, wojtek krzyzanowski
+- old school - soulseek, chomikuj (xd), torrenty
+- irl - kupowanie ogladanie wymiana nagran, koncerty wydarzenia, rozmowy :D
+
+
+## **hiperłącza:**
+
+
+- *klasyk i bdb do odkrywania muzyczki:*
+https://rateyourmusic.com/
+
+- *baza z wydawnictw muzycznych, dobra do szukania po wytwórniach:*
+https://www.discogs.com/
+
+- *dobre do odkrywania wg popularnosci czy skrobli znajomych:*
+http://www.last.fm/home
+
+- *strona domowa pewnego badacza o ogromnej wiedzy ktory przy okazji przesluchal wiekszosc muzyki:*
+https://www.scaruffi.com/
+
+- *do odkrywania nowych artystow:*
+bandcamp, soundcloud, mixcloud
+
+## **magazyny o muzyce elektronicznej:**
+
+
+- Resident Advisor - https://ra.co/
+
+- Fact Magazine - https://www.factmag.com/
+
+- XLR8R - https://www.xlr8r.com/
+
+- Dummy Magazine - https://www.dummymag.com/
+
+- Attack Magazine - https://www.attackmagazine.com/
+
+- MixMag - https://mixmag.net/
+
+**radio internetowe do odkrywania muzyki:**
+
+https://radiokapital.pl/
+
+**polskie festiwale muzyki glownie elektronicznej:**
+
+- Unsound Festival: https://www.unsound.pl/
+- Up To Date Festival: https://www.uptodate.pl/
+
+## **ciekawe labele:**
+
+
+- **warp records** - aphex twin, bords of canada, autechre, squarepusher, gaika
+
+- **planet mu** - micro ziq, luke vibert, machinedrum
+
+- **hyperdub** - burial, doon kanda, babyfather, foodman
+
+- **ninja tune** - amon tobin, actress, bonobo, helena hauff, octo octa
+
+- **cocoon recordings** - ricardo villalobos, martin buttrich
+
+- **mau5strap recordings** - rezz, blackgummy
+
+- **armada** - erick morillo, anotr
+
+- **hot creations** - patrick topping, richy ahmed
+
+- **defected records** - mele, guti, sam divine
+
+- **innervisions** - ame, peter pardeike
+
+- **dirtybird** - claude vonstroke, j.phillip
+
+- **domino records** - animal collective
+
+## *Pozdrawiam Serdecznie ( ͡° ͜ʖ ͡°)*
+
+<iframe src="https://open.spotify.com/embed/playlist/5osJ3Qu77udOEuVLcyG2zV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
