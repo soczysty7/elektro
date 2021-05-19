@@ -10,53 +10,100 @@
 ## **gatunki albumów/utworów na playliscie (artist - album - [pod]gatunek):**
 
 
-Special Request - VORTEX - hardcore breaks; podgatunek breakbeat hardcore, troche drum and bass, UK Bass
-DJ Seinfeld - Time Spent Away From U - outsider house, acid House; podgatunek house
-A2A i inni - A2A - UK Bass, Wonky Techno
-Skee Mask - Compro - breakbeat, ambient techno
-Fuck Buttons - Slow Focus - progressive electronic, neo-psychodelia, drone
-Machinedrum - Room(s) - footwork, UK Bass
-Helena Hauff - Qualm - industrial techno, electro, acid techno
-Ross from Friends - You'll Understand - outsider house
-Jacek Sienkiewicz - Drifting - minimal techno
-The Knife - Shaking The Habitual - electronic, post-industrial, experimental
-Bodan Raczynski - Rave 'Till You Cry - drill and bass, idm(intelligent dance music hehe)
-VTSS/VA - The World of Monnom Black - industrial techno
-Autechre - Exai - IDM, experimental, glitch, abstract electronic
-Boards of Canada - Geogaddi - IDM, downtempo, ambient techno
-De Grandi - 11-100-JAILLE - breakbeat, berite club
-Autechre - Move of Ten - IDM, experimental, glitch, abstract electronic
-DJ Nigga Fox - Cranio - batida, afro-house, gqom, footwork
-Aisha Devi - Of Matter and Spirit - deconstructed club, UK Bass, trance, ritual ambient
-Lorenzo Senni/DJ Stingray - XAllegroX - Trance, progressive electronic
-Patricia - Several Shades of the Same Colour - Outsider House, Ambient Techno, Dub techno
-Muslimgauze - Mullah Said - tribal ambient, ambient dub
-Mazutti - Kształt Jazzu Który Ma Dojść - acid techno, industrial techno, acid core
-Oneothrix Point Never - R Plus Seven - progressive electronic, vapor, glitch, sound collage
-Rezzet - Rezzet LP - outsider house, jungle
-Huerco S. - Colonial Patterns - outsider house, ambient house, dub techno
-SHX... - Linear S Decoded - dub techno, industrial techno
-Abdulla Rashim - A Shell of Speed - ambient techno
-Stereolab - Dots And Loops - indietronica, art pop
-Squarepusher - Hard Normal Daddy - drill and bass, atmospheric drum and bass
-Amon Tobin - Supermodified - nu jazz, electronic, idm
-SSTORM - Drenched 9-12 - acid techno
-33EMYBW.. - Anthropods - Deconstructed Club, IDM
-Flying Lotus - Cosmogramma - idm, glitch hop, wonky
-Pekka Airaksinen - Other Power - progressive electronic
-Legowelt - Crystal Cult 2080 - acid techno
-Lee Gamble - Dutch Tvashar Plumes - minimal techno
-DJ Python - Dulce Compania - ambient house, deep house, reggaeton
-julek ploski - śpie - Deconstructed Club, glitch
-Omar S - Thank You For Letting Me Be Myself - deep house, detroit techno, acid house
-ZULI - Terminal - deconstructed club, glitch hop
-Zomby - Where Were U In '92 - hardcore breaks, jungle
-Lanark Artefax - Whities 011 - idm, uk bass
-Machine Girl - Wlfgrl - hardcore breaks, footwork
-Death Grips - Government Plates - abstract hip hop, electro industrial, wonky
-Hype Williams - Rainbow Edition - hypnagogic pop, electronic
-Animal Collective - Merriweather Post Pavillon - neo-psychodelia, electronic
-Health - Get Color - electro industrial
+
+- Special Request - VORTEX - hardcore breaks; podgatunek breakbeat hardcore, troche drum and bass, UK Bass
+
+- DJ Seinfeld - Time Spent Away From U - outsider house, acid House; podgatunek house
+
+- A2A i inni - A2A - UK Bass, Wonky Techno
+
+- Skee Mask - Compro - breakbeat, ambient techno
+
+- Fuck Buttons - Slow Focus - progressive electronic, neo-psychodelia, drone
+
+- Machinedrum - Room(s) - footwork, UK Bass
+
+- Helena Hauff - Qualm - industrial techno, electro, acid techno
+
+- Ross from Friends - You'll Understand - outsider house
+
+- Jacek Sienkiewicz - Drifting - minimal techno
+
+- The Knife - Shaking The Habitual - electronic, post-industrial, experimental
+
+- Bodan Raczynski - Rave 'Till You Cry - drill and bass, idm(intelligent dance music hehe)
+
+- VTSS/VA - The World of Monnom Black - industrial techno
+
+- Autechre - Exai - IDM, experimental, glitch, abstract electronic
+
+- Boards of Canada - Geogaddi - IDM, downtempo, ambient techno
+
+- De Grandi - 11-100-JAILLE - breakbeat, berite club
+
+- Autechre - Move of Ten - IDM, experimental, glitch, abstract electronic
+
+- DJ Nigga Fox - Cranio - batida, afro-house, gqom, footwork
+
+- Aisha Devi - Of Matter and Spirit - deconstructed club, UK Bass, trance, ritual ambient
+
+- Lorenzo Senni/DJ Stingray - XAllegroX - Trance, progressive electronic
+
+- Patricia - Several Shades of the Same Colour - Outsider House, Ambient Techno, Dub techno
+
+- Muslimgauze - Mullah Said - tribal ambient, ambient dub
+
+- Mazutti - Kształt Jazzu Który Ma Dojść - acid techno, industrial techno, acid core
+
+- Oneothrix Point Never - R Plus Seven - progressive electronic, vapor, glitch, sound collage
+
+- Rezzet - Rezzet LP - outsider house, jungle
+
+- Huerco S. - Colonial Patterns - outsider house, ambient house, dub techno
+
+- SHX... - Linear S Decoded - dub techno, industrial techno
+
+- Abdulla Rashim - A Shell of Speed - ambient techno
+
+- Stereolab - Dots And Loops - indietronica, art pop
+
+- Squarepusher - Hard Normal Daddy - drill and bass, atmospheric drum and bass
+
+- Amon Tobin - Supermodified - nu jazz, electronic, idm
+
+- SSTORM - Drenched 9-12 - acid techno
+
+- 33EMYBW.. - Anthropods - Deconstructed Club, IDM
+
+- Flying Lotus - Cosmogramma - idm, glitch hop, wonky
+
+- Pekka Airaksinen - Other Power - progressive electronic
+
+- Legowelt - Crystal Cult 2080 - acid techno
+
+- Lee Gamble - Dutch Tvashar Plumes - minimal techno
+
+- DJ Python - Dulce Compania - ambient house, deep house, reggaeton
+
+- julek ploski - śpie - Deconstructed Club, glitch
+
+- Omar S - Thank You For Letting Me Be Myself - deep house, detroit techno, acid house
+
+- ZULI - Terminal - deconstructed club, glitch hop
+
+- Zomby - Where Were U In '92 - hardcore breaks, jungle
+
+- Lanark Artefax - Whities 011 - idm, uk bass
+
+- Machine Girl - Wlfgrl - hardcore breaks, footwork
+
+- Death Grips - Government Plates - abstract hip hop, electro industrial, wonky
+
+- Hype Williams - Rainbow Edition - hypnagogic pop, electronic
+
+- Animal Collective - Merriweather Post Pavillon - neo-psychodelia, electronic
+
+- Health - Get Color - electro industrial
 
 
 ## **sposoby odkrywania muzyki:**
